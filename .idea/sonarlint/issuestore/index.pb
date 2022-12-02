@@ -1,0 +1,102 @@
+
+N
+app/helpers/students_helper.rb,8\7\87ace19861e8249529c05845204192d2feab15ea
+Q
+!app/helpers/application_helper.rb,0\4\040453e670f9bf522378f941c96f3881076fee1f
+P
+ app/models/application_record.rb,a\1\a1167d51039467f42565c78e85fc2e98815cec67
+E
+app/models/student.rb,3\0\309b8dd25443ff57d068eaef82f122a1220ea838
+V
+&app/assets/stylesheets/application.css,5\6\565e1651e502b72ad76ed27e8f0a562fea115987
+S
+#app/assets/javascripts/bootstrap.js,8\8\889530fb4a82fde8b59a0f2de6e95852c52de1b0
+S
+#app/views/layouts/Students.html.erb,0\f\0fff321e7648e8d2246ede5a5828af445a77d010
+Q
+!app/views/layouts/mailer.text.erb,2\c\2c761add2e75b8929fac974ce0d883422cfbfac8
+Q
+!app/views/layouts/mailer.html.erb,5\7\5791af0ec7101c9506acc0ad66c5becffb57bcf2
+U
+%app/assets/javascripts/application.js,4\3\431311cbb9902e2a56811443372061424f388e2c
+T
+$test/application_system_test_case.rb,c\1\c10431f503a622f9e675d4774c7ac3223463cd29
+C
+test/test_helper.rb,3\d\3d48a9258f4bc7e07f0403a61ef719d5b4da5299
+=
+.ruby-version,1\9\19ed2a9b83b226ba18e78966454862762d8fef02
+9
+	Lab_7.iml,f\1\f1492add95ea3bf98bfe22ad8adc829200faec6b
+<
+package.json,7\0\7030d0b2f71b999ff89a343de08c414af32fc93a
+A
+package-lock.json,f\a\fa288d1472d29beccb489a676f68739ad365fc47
+9
+	config.ru,f\6\f6641faeef24c6fc806380a86dd426ad55eacdca
+>
+bin/bundle.cmd,b\d\bd66635fbf31b63dd7cd9d3a64d5b2953a7133e3
+8
+Rakefile,4\4\44b7fa1ba50397e71d88bd69389f1ec917165cfb
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+^
+.config/initializers/content_security_policy.rb,1\1\114e2cbb4b8f1d6fd040739efe38b2b28967b2c8
+M
+config/initializers/assets.rb,b\9\b9304298674f06982ff2a82bda90ab13d28c5cbd
+_
+/config/initializers/filter_parameter_logging.rb,c\7\c7dc9f3d56ffe5996dcb2662c91f4c4c94ffd9bd
+R
+"config/initializers/inflections.rb,9\a\9ae0bf0fcd1615b43115ab08d1c38e27c02e182d
+Y
+)config/initializers/permissions_policy.rb,1\8\18ea244a9d49e79b2dba3611f620746146c50bcd
+8
+bin/rake,9\8\98ec6b99e0df7756ff15a3790b0bd9dd022a92ad
+9
+	bin/setup,3\f\3f490f8da820b05ec772996143c1dd5b3498f750
+K
+config/environments/test.rb,f\5\f52903eb564521c5ab86ad6edd6582a3b5f15b2f
+Q
+!config/environments/production.rb,4\a\4a310e0d78d1faa88d49084f8149abd3441b1f25
+R
+"config/environments/development.rb,e\5\e54c3d8d363f5b004526c7fcab8f8eb31da5a209
+:
+
+bin/bundle,8\d\8d6a126d12d5381c7693c27cad5d2eca28213623
+M
+app/assets/config/manifest.js,3\6\360edf13daf03f21703daab1e6dcd89f0b969c90
+e
+5app/views/students/get_successful_percentage.html.erb,c\6\c6ce72c1689ab850cd18a9f78b2e7fc0ff481332
+Q
+!app/views/students/index.html.erb,7\c\7cd904f9d125c039b634943eb0b8549bd8beb33d
+a
+1app/views/students/get_groups_by_success.html.erb,6\b\6baa2acfbc54c4661cb90be4c753d8a444e18694
+Y
+)app/controllers/application_controller.rb,7\d\7dc0dd94f601e507e2a20bad6adcf12a51caa380
+E
+config/locales/ua.yml,b\b\bba98528731b2a9dcdd3cb860290d04d0167e4fc
+b
+2app/views/students/get_with_academic_debt.html.erb,4\b\4b972212d006bb159a5baec03e564f7413d9fa5a
+c
+3app/views/students/get_successful_subjects.html.erb,8\8\88d7ba69045169b8deb04a925798fa99598544e4
+V
+&app/controllers/students_controller.rb,7\2\729a040f0c07bddb67c2a84c646ef44ae6b02074
+P
+ app/views/students/edit.html.erb,1\9\19b6a5939452564248da1b531dcc576f6e015559
+O
+app/views/students/new.html.erb,4\8\488bc0b5fb8309108d3f93cc3d85c19d580be5fe
+O
+config/locales/ua.bootstrap.yml,5\4\548400b42ae547bafc672db34ea3706218fbefb2
+Q
+!app/views/students/_form.html.erb,8\0\807d03dc59000cacba1da2c65b8b5be6df4957dd
+E
+config/locales/en.yml,2\e\2e828e23e47c79dd8cad0f080376db81e82d3588
+O
+config/locales/en.bootstrap.yml,7\5\7574df623b161bd8dc7954b5b765cdb5cb2c6929
+P
+ app/views/students/show.html.erb,a\4\a47be89a78f8df49491ce7351c9a0f5c64865e1b
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+V
+&app/views/layouts/application.html.erb,e\8\e82294e631b91cb53fe2e362dfd3b8e4a3924ae2
+9
+	bin/rails,b\3\b3ccab2c507ca3350b2f47e1ac22bf593b2b912e
